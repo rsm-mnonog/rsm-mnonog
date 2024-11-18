@@ -45,7 +45,7 @@ environments
 - Compiled and presented research findings to faculty, recommending encryption improvements based on
 security assessments
 
-[IMG_3499 2](IMG_3499 2.HEIC)
+[IMG_3499](IMG_3499.HEIC)
 
 ## Professional Experience
 **United States Navy | Various Locations 2015 – January 31, 2025**
