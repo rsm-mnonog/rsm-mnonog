@@ -13,12 +13,12 @@
 
 ## Education
 
--Master of Science, Business Analytics | University of California | Expected December 2025
--Mobile App Development Certificate | San Diego Community College
--Bachelor of Science, Mathematics | United States Naval Academy (USNA)
+- M.S., Business Analytics | University of California | Expected December 2025
+- Mobile App Development | San Diego Community College | May 2024
+- B.S., Mathematics | United States Naval Academy (USNA) | May 2022
 
 
-##Projects
+## Projects
 
 **Data Analysis and Visualization | Accenture 2024 – Present**
 - Analyzed a dataset of over 10,000 financial records to assess potential company growth scenarios
