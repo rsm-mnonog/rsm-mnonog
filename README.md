@@ -1,6 +1,6 @@
 #Data Scientist👋
 
-### Key skills include:
+### Key skills include
 skills include:
 • Data Analysis
 • Statistical Modeling
