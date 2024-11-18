@@ -72,6 +72,7 @@ leadership, data-driven decision-making, and community involvement
 - Led initiatives to improve team efficiency by analyzing work
 
 ## Notable Awards
+
 -Joseph K Taussig Jr. Leadership Award, United States Naval Academy
 -Best in Mathematics Award, United States Naval Academy
 -Bluejacket (Employee) of the Year, United States Navy
