@@ -26,6 +26,7 @@
 revenue, profitability, and market share
 - Provided data-driven recommendations to senior leadership regarding the feasibility of an IPO for future
 expansion
+
 **Ride Sharing Markets Re-Equilibriate Case Analysis | UCSD 2024**
 - Conducted in-depth analysis of UberX pricing patterns using surge rates, supply-demand fluctuations, and
 geographic data
@@ -33,7 +34,7 @@ geographic data
 - Presented findings with visual tools, offering strategic insights into optimizing pricing strategies in competitive
 markets
 
-* The McEliece Cryptosystem and Error-Correcting Codes | USNA Capstone 2014 – 2017 *
+**The McEliece Cryptosystem and Error-Correcting Codes | USNA Capstone 2014 – 2017**
 - Investigated the McEliece Cryptosystem as a potential replacement for Rivest-Shamir-Adleman (RSA)
 encryption, focusing on its effectiveness in meeting National Institute of Standards and Technology (NIST)
 security standards
