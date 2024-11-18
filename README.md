@@ -27,6 +27,8 @@ revenue, profitability, and market share
 - Provided data-driven recommendations to senior leadership regarding the feasibility of an IPO for future
 expansion
 
+[ACCENTURE_PRESENTATION](ACCENTURE_PRESENTATION.pdf)
+
 **Ride Sharing Markets Re-Equilibriate Case Analysis | UCSD 2024**
 - Conducted in-depth analysis of UberX pricing patterns using surge rates, supply-demand fluctuations, and
 geographic data
